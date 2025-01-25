@@ -98,3 +98,4 @@ When the user speaks and OpenAI sends `input_audio_buffer.speech_started`, the c
 
 Depending on your application's needs, you may want to use the [`input_audio_buffer.speech_stopped`](https://platform.openai.com/docs/api-reference/realtime-server-events/input-audio-buffer-speech-stopped) event, instead, or a combination of the two.
 # fastapi-backend
+hello
